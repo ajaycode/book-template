@@ -93,7 +93,7 @@ This is an attribute reference {url-quickref}[that links this text to the AsciiD
 == Including Source Code from a source file
 [source,kotlin]
 ----
-include::src/main/kotlin/com/familytree/user/FamilyTreeApplication.kt[]
+include::src/main/kotlin/com/company/book/main.kt[]
 ----
 
 == Include a specific method from the file
